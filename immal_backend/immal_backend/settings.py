@@ -8,7 +8,7 @@ SECRET_KEY = 'django-insecure-4-i=3ehnqo+(5=ren!80tx9f9(z(4jqy7)p%@_9jse%o&&e@i%
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['immal.net', 'www.immal.net', '127.0.0.1', 'localhost']
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
